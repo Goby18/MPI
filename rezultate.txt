@@ -1,0 +1,98 @@
+Bubble Sort:
+Sortarea a 1000 de elemente:			Sortarea a 1000 de elemente deja sortate crescator:				Sortarea a 1000 de elemente sortate descrescator:						
+execution time : 1.290 s			execution time : 0.797 s							 execution time : 0.497 s
+
+Sortarea a 10000 de elemente:			Sortarea a 10000 de elemente deja sortate crescator:				Sortarea a 10000 de elemente sortate descrescator:
+execution time : 9.702 s			execution time : 1.575 s							execution time : 1.537 s
+
+Sortarea a 100000 de elemente: 			Sortarea a 100000 de elemente deja sortate crescator:				Sortarea a 100000 de elemente sortate descrescator:
+execution time : 87.882 s			 execution time : 3.460 s							execution time : 94.209 s
+
+Sortarea a un milion de elemente:		Sortarea unui milion de elemente deja sortate crescator:			Sortarea a milion de elemente sortate descrescator:
+≈2.44 ore					execution time : 5.173 s							≈2.62 ore
+
+Sortarea unui miliard de elemente:		Sortarea unui miliard de elemente deja sortate crescator:			Sortarea a miliard de elemente sortate descrescator:
+≈278.67 ani					≈1.44 ore									≈2.99 ani
+
+
+Selection Sort	
+Sortarea a 1000 de elemente:			Sortarea a 1000 de elemente deja sortate crescator:				Sortarea a 1000 de elemente sortate descrescator:
+execution time : 0.914 s			execution time : 0.825 s							execution time : 1.173 s
+
+Sortarea a 10000 de elemente:			Sortarea a 10000 de elemente deja sortate crescator:				Sortarea a 10000 de elemente sortate descrescator:
+execution time : 9.858 s			execution time : 9.779 s							execution time : 9.864 s
+
+Sortarea a 100000 de elemente: 			Sortarea a 100000 de elemente deja sortate crescator:				Sortarea a 100000 de elemente sortate descrescator:
+execution time : 44.314 s			execution time : 44.031 s							execution time : 44.490 s
+
+Sortarea a un milion de elemente:		Sortarea unui milion de elemente deja sortate crescator:			Sortarea a milion de elemente sortate descrescator:
+≈1.23 ore			.		≈1.21ore									≈1.24 ore
+
+Sortarea unui miliard de elemente:		Sortarea unui miliard de elemente deja sortate crescator:			Sortarea a miliard de elemente sortate descrescator:
+≈140.52 ani					Aproximativ 50,588.19 zile.							≈1.41 ani
+
+Insertion Sort:
+Sortarea a 1000 de elemente:			Sortarea a 1000 de elemente deja sortate crescator:				Sortarea a 1000 de elemente sortate descrescator:
+execution time : 0.814 s			execution time : 0.961 s							execution time : 1.097 s
+
+Sortarea a 10000 de elemente:			Sortarea a 10000 de elemente deja sortate crescator:				Sortarea a 10000 de elemente sortate descrescator:
+execution time : 1.296 s			execution time : 2.144 s							execution time : 1.516 s
+
+Sortarea a 100000 de elemente:			Sortarea a 100000 de elemente deja sortate crescator:				Sortarea a 100000 de elemente sortate descrescator:
+execution time : 26.332 s			execution time : 3.780 s							 execution time : 49.950 s						
+
+Sortarea a un milion de elemente:		Sortarea a un milion de elemente deja sortate crescator:			Sortarea a milion de elemente sortate descrescator:
+≈0.73 ore. 					execution time : 4.719 s							≈57.81 zile
+
+Sortarea unui miliard de elemente:		Sortarea unui miliard de elemente deja sortate crescator:			Sortarea a miliard de elemente sortate descrescator:
+≈83.5 ani					≈1.31ore									≈158.38 ani
+
+Merge Sort:					
+Sortarea a 1000 de elemente:			Sortarea a 1000 de elemente deja sortate crescator:				Sortarea a 1000 de elemente sortate descrescator:
+execution time : 0.866 s			execution time : 1.058 s							execution time : 1.439 s
+
+Sortarea a 10000 de elemente:			Sortarea a 10000 de elemente deja sortate crescator:				Sortarea a 10000 de elemente sortate descrescator:
+execution time : 1.231 s			execution time : 1.558 s							execution time : 1.843 s
+
+Sortarea a 100000 de elemente:			Sortarea a 100000 de elemente deja sortate crescator:				Sortarea a 100000 de elemente sortate descrescator:
+execution time : 4.469 s			execution time : 4.117 s							execution time : 4.116 s
+
+Sortarea a un milion de elemente:		Sortarea a un milion de elemente deja sortate crescator				Sortarea a milion de elemente sortate descrescator:
+execution time : 7.767 s			 execution time : 9.337 s							execution time : 9.701 s
+
+Sortarea unui miliard de elemente:		Sortarea unui miliard de elemente deja sortate crescator:			Sortarea a miliard de elemente sortate descrescator:
+≈3.24 ore					≈2.33minute									≈4.042 ore
+
+
+Quick Sort:	
+Sortarea a 1000 de elemente:			Sortarea a 1000 de elemente deja sortate crescator:				Sortarea a 1000 de elemente sortate descrescator:
+  execution time : 0.280 s			execution time : 1.483 s							execution time : 1.548 s
+
+Sortarea a 10000 de elemente:			Sortarea a 10000 de elemente deja sortate crescator:				Sortarea a 10000 de elemente sortate descrescator:
+execution time : 7.876 s			execution time : 9.205 s							execution time : 8.937 s
+
+Sortarea a 100000 de elemente:			Sortarea a 100000 de elemente deja sortate crescator:				Sortarea a 100000 de elemente sortate descrescator:
+execution time : 11.069 s			execution time : 64.247 s							execution time : 45.749 s
+
+Sortarea a un milion de elemente:		Sortarea a un milion de elemente deja sortate crescator:			Sortarea a milion de elemente sortate descrescator:
+execution time : 23.694 s			≈77.3 secunde									≈1.271 ore
+
+Sortarea unui miliard de elemente:		Sortarea unui miliard de elemente deja sortate crescator:			Sortarea a miliard de elemente sortate descrescator:
+≈9.87 ore					≈116 secunde									=52.95 zile
+
+
+Radix Sort:
+Sortarea a 1000 de elemente:			Sortarea a 1000 de elemente deja sortate crescator:				Sortarea a 1000 de elemente sortate descrescator:
+execution time : 0.837 s			execution time : 1.181 s							execution time : 1.046 s
+
+Sortarea a 10000 de elemente:			Sortarea a 10000 de elemente deja sortate crescator:				Sortarea a 10000 de elemente sortate descrescator:
+execution time : 1.064 s			execution time : 1.042 s							execution time : 1.032 s
+
+Sortarea a 100000 de elemente:			Sortarea a 100000 de elemente deja sortate crescator:				Sortarea a 100000 de elemente sortate descrescator:
+execution time : 3.269 s			execution time : 3.345 s							execution time : 3.266 s
+
+Sortarea a un milion de elemente:		Sortarea a un milion de elemente deja sortate crescator				Sortarea a milion de elemente sortate descrescator:
+execution time : 4.743 s			execution time : 5.358 s							execution time : 5.424 s
+
+Sortarea unui miliard de elemente:		Sortarea unui miliard de elemente deja sortate crescator:			Sortarea a miliard de elemente sortate descrescator:
+≈1.32 ore					≈1.49 ore									≈1.507 ore
